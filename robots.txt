@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://support.sql.dev.br/sitemap.xml
